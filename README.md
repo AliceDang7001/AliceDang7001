@@ -26,6 +26,9 @@
 - <b>Physic</b>
   - [Projectile Motion](https://github.com/AliceDang7001/Projectile-Motion-Coding)
 
+ - <b>Automation</b>
+  - [EV Maze Car](https://github.com/AliceDang7001/Projectile-Motion-Coding)
+
   
 
 <h2>📺 Popular YouTube Videos</h2>
