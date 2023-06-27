@@ -27,7 +27,7 @@
   - [Projectile Motion](https://github.com/AliceDang7001/Projectile-Motion-Coding)
 
  - <b>Automation</b>
-  - [EV Maze Car](https://github.com/AliceDang7001/Projectile-Motion-Coding)
+   - [Automation Racing Car](https://github.com/AliceDang7001/Automation-Racing-Car-Process-1)
 
   
 
