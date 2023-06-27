@@ -1,8 +1,6 @@
 
 <h1>Hi, I'm Alice! 👋 <br/> <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Design Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Drone Designer</a></h1>
 
-<h2>⚙️ Engineering Development Projects:</h2>
-
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Android Launchpad App</b>
@@ -22,6 +20,10 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>⚙️ Engineering Development Projects:</h2>
+- <b>Physics</b>
+  - [Projectile Motion](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2>📺 Popular YouTube Videos</h2>
 
