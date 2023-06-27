@@ -20,10 +20,12 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - - <b>Python</b>
 <h2>⚙️ Engineering Development Projects:</h2>
-- <b>Physics</b>
-  - [Projectile Motion](https://github.com/joshmadakor1/EncrypterPOC)
+  
+  - [Projectile Motion](https://github.com/AliceDang7001/Projectile-Motion-Coding)
+
+  
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -44,7 +46,6 @@
 [linkedin]: https://www.linkedin.com/in/alicedang7001/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
