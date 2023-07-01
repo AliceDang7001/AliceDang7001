@@ -4,7 +4,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Android Launchpad App</b>
-  - [Planiverse Development](https://github.com/AliceDang7001/Planiverse_Development.md)
+  - [Planiverse Development](https://github.com/AliceDang7001/Planiverse_Development)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
