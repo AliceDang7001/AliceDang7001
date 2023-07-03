@@ -19,7 +19,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Javascript</b>
-  - [RPG Game Development)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [RPG Game Development)](https://github.com/AliceDang7001/RPG_GameMaker)
 
 <h2>⚙️ Engineering Development Projects:</h2>
 
