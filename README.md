@@ -8,7 +8,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Virtual API Assistant (Python, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Connection to Google API](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Connection to Google API](https://github.com/AliceDang7001/APIAssistant) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.gatech.edu/adang64/Jwipe)
